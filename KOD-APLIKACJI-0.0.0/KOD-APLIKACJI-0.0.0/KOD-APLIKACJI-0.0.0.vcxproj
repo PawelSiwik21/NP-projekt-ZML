@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="KOD-APLIKACJI-0.0.0.cpp" />
+    <ClCompile Include="KODAPLIKACJI_0.0.0.cpp" />
+    <ClCompile Include="menurestauracji.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="menurestauracji.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
