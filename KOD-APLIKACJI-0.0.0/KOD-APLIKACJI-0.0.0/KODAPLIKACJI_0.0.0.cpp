@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!" << endl;
+	setlocale(LC_ALL, "");
+	cout << "chój ci w dupę!" << endl;
 }
 
